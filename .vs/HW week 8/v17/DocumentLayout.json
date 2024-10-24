@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\HW week 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\repositorys\\userrepositoryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\repositorys\\userrepositoryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\repositorys\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\repositorys\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\contract\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\contract\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\repositorys\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\repositorys\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\repositorys\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\repositorys\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\enums\\studentstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\enums\\studentstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\enums\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\enums\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\entities\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\entities\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\database\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\database\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\database\\inmemorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\database\\inmemorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|c:\\users\\asus\\source\\repos\\hw week 8\\hw week 8\\contract\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B560A3E-7229-4553-AFA6-8E4897EAD8AE}|HW week 8\\HW week 8.csproj|solutionrelative:hw week 8\\contract\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Program.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Program.cs",
+              "RelativeToolTip": "HW week 8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:59:11.36Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Contract\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Contract\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Contract\\ICourseRepository.cs",
+              "RelativeToolTip": "HW week 8\\Contract\\ICourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:51:07.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Contract\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Contract\\ITeacherRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Contract\\ITeacherRepository.cs",
+              "RelativeToolTip": "HW week 8\\Contract\\ITeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:00:18.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Contract\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Contract\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Contract\\IUserRepository.cs",
+              "RelativeToolTip": "HW week 8\\Contract\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:14:00.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Services\\CourseService.cs",
+              "RelativeToolTip": "HW week 8\\Services\\CourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:49:58.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Entities\\Result.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Entities\\Result.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Entities\\Result.cs",
+              "RelativeToolTip": "HW week 8\\Entities\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:05:31.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operator.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Entities\\Operator.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Entities\\Operator.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Entities\\Operator.cs",
+              "RelativeToolTip": "HW week 8\\Entities\\Operator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:47:56.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Entities\\Course.cs",
+              "RelativeToolTip": "HW week 8\\Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:51:16.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Enums\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Enums\\RoleEnum.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Enums\\RoleEnum.cs",
+              "RelativeToolTip": "HW week 8\\Enums\\RoleEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:57:00.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenderEnum.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Enums\\GenderEnum.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Enums\\GenderEnum.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Enums\\GenderEnum.cs",
+              "RelativeToolTip": "HW week 8\\Enums\\GenderEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:19:40.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Repositorys\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Repositorys\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Repositorys\\TeacherRepository.cs",
+              "RelativeToolTip": "HW week 8\\Repositorys\\TeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:00:58.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Repositorys\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Repositorys\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Repositorys\\CourseRepository.cs",
+              "RelativeToolTip": "HW week 8\\Repositorys\\CourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:52:02.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Services\\UserServices.cs",
+              "RelativeToolTip": "HW week 8\\Services\\UserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:38:36.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Repositorys\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Repositorys\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Repositorys\\UserRepository.cs",
+              "RelativeToolTip": "HW week 8\\Repositorys\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:15:54.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepositoryFile.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Repositorys\\UserRepositoryFile.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Repositorys\\UserRepositoryFile.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Repositorys\\UserRepositoryFile.cs",
+              "RelativeToolTip": "HW week 8\\Repositorys\\UserRepositoryFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:22:17.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Entities\\User.cs",
+              "RelativeToolTip": "HW week 8\\Entities\\User.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAkwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:05:22.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\DataBase\\SeedData.cs",
+              "RelativeDocumentMoniker": "HW week 8\\DataBase\\SeedData.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\DataBase\\SeedData.cs",
+              "RelativeToolTip": "HW week 8\\DataBase\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:17:07.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Entities\\Student.cs",
+              "RelativeToolTip": "HW week 8\\Entities\\Student.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswDgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:12:25.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InMemoryDB.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\DataBase\\InMemoryDB.cs",
+              "RelativeDocumentMoniker": "HW week 8\\DataBase\\InMemoryDB.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\DataBase\\InMemoryDB.cs",
+              "RelativeToolTip": "HW week 8\\DataBase\\InMemoryDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:29:05.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Entities\\Teacher.cs",
+              "RelativeToolTip": "HW week 8\\Entities\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:49:11.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentStatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Enums\\StudentStatusEnum.cs",
+              "RelativeDocumentMoniker": "HW week 8\\Enums\\StudentStatusEnum.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW week 8\\HW week 8\\Enums\\StudentStatusEnum.cs",
+              "RelativeToolTip": "HW week 8\\Enums\\StudentStatusEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:18:04.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
